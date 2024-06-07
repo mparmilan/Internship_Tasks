@@ -12,7 +12,9 @@ const Home = () => {
         <div className="text-xl p-4">
           <Link to="/task02">Task02 - Create Product Form</Link>
         </div>
-        <div className="text-xl p-4">Task03</div>
+        <div className="text-xl p-4">
+          <Link to="/task03">Task02 - Show/Hide Content</Link>
+        </div>
         <div className="text-xl p-4">Task04</div>
         <div className="text-xl p-4">Task05</div>
         <div className="text-xl p-4">Task06</div>
