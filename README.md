@@ -3,3 +3,6 @@
 
 **Task-02 - Create Products Form with form validaion**
 ![Task-02](https://github.com/mparmilan/Internship_Tasks/assets/171232079/524893d2-dadc-448a-bcf1-0c29056f3941)
+
+**Task-03 - Show/Hide Conent when click the button**
+![Task - 03](https://github.com/mparmilan/Internship_Tasks/assets/171232079/3d1c5fda-c8e5-414e-9c0b-1d3011bd3143)
